@@ -6,7 +6,8 @@
 |[Research](https://etuyishimire.github.io/Research/)|
 |[Publications](https://etuyishimire.github.io/Publications/)|
 |[Projects](https://etuyishimire.github.io/Projects/)|
-|[CV](https://etuyishimire.github.io/CV/)|
+|[CV](https://etuyishimire.github.io/CV/)|file:///home/emmanuel/Pictures/profile.jpeg![image](https://user-images.githubusercontent.com/68697181/216112708-f90adcab-1188-4c3a-9ec8-8cf4de1caa87.png)
+
 
 
 
