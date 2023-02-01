@@ -7,6 +7,5 @@
 |[Publications](https://etuyishimire.github.io/publications/)|
 |[Projects](https://etuyishimire.github.io/Projects/)|
 |[CV](https://etuyishimire.github.io/CV/)|
-|[Click me](http://www.google.com){: .btn}|
 
 
