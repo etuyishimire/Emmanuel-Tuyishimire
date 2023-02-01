@@ -1,6 +1,6 @@
 # Emmanuel Tuyishimire 
 
-|[Home](https://etuyishimire.github.io/Home/)|
+|[Home](https://etuyishimire.github.io/)|
 | --- |
 |[Teaching](https://etuyishimire.github.io/Teaching/)|
 |[Research](https://etuyishimire.github.io/Research/)|
