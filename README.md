@@ -1,4 +1,4 @@
-# Emmanuel Tuyishimire 
+# Emmanuel TUyishimire
 
 |[Home](https://etuyishimire.github.io/)|
 | --- |
