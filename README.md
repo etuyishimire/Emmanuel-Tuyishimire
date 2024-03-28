@@ -1,4 +1,4 @@
-## Welcome to my  site.  
+## Welcome to my  site!
 Since 2024, this is where I keep my professional updates and key records.
 |[Bio](https://etuyishimire.github.io/Bio)|
 | --- |
