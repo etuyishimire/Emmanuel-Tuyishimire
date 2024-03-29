@@ -9,4 +9,5 @@ Since 2024, this is where I keep my professional updates and key records.
  
 
 
-| |[Courses](https://etuyishimire.github.io/Courses)|| --- |
+| |[Courses](https://etuyishimire.github.io/Courses)|
+| --- |
